@@ -1,0 +1,1 @@
+The contents of this project relate to the issue [Google PubSub Subscription cannot recover from StatusCode.UNAVAILABLE [code=8a75] error](https://stackoverflow.com/questions/49405887/google-pubsub-subscription-cannot-recover-from-statuscode-unavailable-code-8a75) raised on StackOverflow.
